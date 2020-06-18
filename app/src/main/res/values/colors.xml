@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_light_grey">#4d4d4d</color>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+
+    <color name="colorPrimary">#038DFF</color>
+
+    <color name="colorPrimaryDark">#0061cb</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color -->
+
+
+    <color name="start_color">#038DFF</color>
+
+    <color name="center_color">#868DFF</color>
+
+    <color name="end_color">#FA8DFF</color>
+
+    <!-- Tab color -->
+
+
+    <color name="tab_indicator_color">#2196F3</color>
+
+    <color name="tab_selected_text_color">#2196F3</color>
+
+    <color name="tab_background_color">#FFFFFF</color>
+
+    <color name="tab_text_color">#78909C</color>
+
+    <color name="artist_name_color">#E0E0E0</color>
+
+    <color name="song_length_color">#B0BEC5</color>
+
+    <color name="dark_icon_background">#FFFFFF</color>
+</resources>
